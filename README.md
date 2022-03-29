@@ -4,7 +4,7 @@ Saviour ChatBot serves as an automated point of contact and is linked to the web
 Hosted at:https://saviourwar.azurewebsites.net 
 
 # SERVICES USED #
-QNA Maker (To create knowledge base)
-Azure Bot Service (To create chatbot)
-Azure Web Apps(To host the website)
+* QNA Maker (To create knowledge base)    
+* Azure Bot Service (To create chatbot)
+* Azure Web Apps(To host the website)
 
